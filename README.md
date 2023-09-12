@@ -1,1 +1,1 @@
-# GRC---Risk-Management
+# GRC-Risk-Management
